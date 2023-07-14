@@ -11,7 +11,7 @@ import { EthereumPage } from './src/pages/Ethereum';
 import {Login} from './src/pages/Login';
 import {SolonaWalletGeneration} from './src/pages/SolonaWalletGeneration';
 // import {Send} from './src/pages/Send';
-
+// 
 const Stack = createNativeStackNavigator();
 
 const App = () => {
